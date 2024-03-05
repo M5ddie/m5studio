@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/m5studio/static/css/main.e6c13ad2.css",
+    "main.js": "/m5studio/static/js/main.48bb02ba.js",
+    "static/js/453.d322ff4a.chunk.js": "/m5studio/static/js/453.d322ff4a.chunk.js",
+    "index.html": "/m5studio/index.html",
+    "main.e6c13ad2.css.map": "/m5studio/static/css/main.e6c13ad2.css.map",
+    "main.48bb02ba.js.map": "/m5studio/static/js/main.48bb02ba.js.map",
+    "453.d322ff4a.chunk.js.map": "/m5studio/static/js/453.d322ff4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.48bb02ba.js"
+  ]
+}
