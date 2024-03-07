@@ -14,7 +14,7 @@ const DownloadCV = () => {
   }
 
   return (
-    <button onClick={() => downloadFile('https://raw.githubusercontent.com/M5ddie/m5studio/master/src/assets/pdf/CV_MadelynPerez.pdf')}>
+    <button onClick={() => downloadFile('https://raw.githubusercontent.com/M5ddie/m5studio/master/assets/pdf/CV_MadelynPerez.pdf')}>
       Download CV
     </button>
   )
